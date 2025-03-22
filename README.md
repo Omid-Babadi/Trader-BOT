@@ -37,7 +37,7 @@ A demo cryptocurrency trading bot with a modern UI that implements momentum-base
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Omid-Babadi/Trader-BOT.git
    cd traderBot
    ```
 
